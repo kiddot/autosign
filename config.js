@@ -6,12 +6,13 @@ module.exports = {
   //yx签到参数
   nuggets: {
     headers: {//相关请求头
-      cookie: 'pgv_info=ssid=s5941609065; pgv_pvid=5992655700; eas_sid=01f6x5I0W0A0n9j6O5f6a828u1; uin=o0492275410; skey=@WIL0Jcj8y; RK=RW95nvVQX6; ptcz=d4c1e661711ba7ee2bcfa3b60c543ec199a64a33d9e283f0dbe5bc045202f369; luin=o0492275410; lskey=00010000fe8d7455d6c97b33e93fb3ea9476fe19fa86bfa5ebbe5362b9d8c0fcb240034e291ea9c35ba257e3; p_uin=o0492275410; pt4_token=qKZWZhDC5y7od5bLGu6cSovEkXwM4kCiLaI4ZulC5NY_; p_skey=-*uuctWb59fgzREFfo8qZCK0YWcKT5z4v0EPMPDHbB8_; p_luin=o0492275410; p_lskey=00040000937e273b3c41cdaa2cd3ba538b66704e1b6683a4d3c59b318777a1b4b6800a48c3d7a1fc042ff3d8; IED_LOG_INFO2=userUin%3D492275410%26uin%3D492275410%26nickName%3D%2525E5%25258D%252581%2525E6%25259C%252588%26nickname%3D%25E5%258D%2581%25E6%259C%2588%26userLoginTime%3D1650009671%26logtype%3Dqq%26loginType%3Dqq; sgqqcomrouteLine=a20200228signin_a20200228signin_a20200228signin_a20200228signin_a20200228signin_a20200228signin_a20200228signin', //用自己的
+      cookie: 'RK=7f5x2tV6V6; ptcz=61797e3633d03424bb2cac006d5d12c02507d3584cb252dffb6fbb733cb5fbf2; tvfe_boss_uuid=dbf81bb227b95450; pgv_pvid=7324696064; eas_sid=Z1r6k2a9q3n4f8N5e3l885g5X3; ied_qq=o0492275410; o_cookie=492275410; uin_cookie=o0492275410; pac_uid=1_ull; fqm_pvqid=5754667f-1cad-48d4-adbc-5029a336b5a4; _ga=GA1.2.557372845.1634265487; ptui_loginuin=492275410; pgv_info=pgvReferrer=&ssid=s215602400; sgqqcomrouteLine=a20211111member_a20211111member_a20211111sghy_a20211109sgllq_a20211109sgllq_a20211111member_a20211111member; tokenParams=%3Fadtag%3Dnb; xzjqqcomrouteLine=a20211118_a20211118; fqm_sessionid=ad836eb5-acc3-417b-b8a5-04e57bd5d235; euin=7eEAowSk7e6z; tmeLoginType=2; login_type=1; wxrefresh_token=; psrf_access_token_expiresAt=1655381888; psrf_qqunionid=5D0A9A432C3989329BFF4813922F5E43; psrf_qqopenid=DBEAFB9BF4C344EBBBD56ED0AB422DA0; psrf_qqaccess_token=0E45F9DFD3D5DD7582343192B1CB991D; wxunionid=; psrf_qqrefresh_token=6DA5DB0A3893CE5F212C496EF7517E1B; wxopenid=; midas_openid=BE12B0D2F3448DE5D72DF3E7CC025B39; midas_openkey=284FC3674036F81E3990D0F3D81E0E8F; verifysession=h017967ef3a85c0e70e4847f1c4db9e112d7b31e70cd18991f0dc6d1db0850cf1f27e519d0e494597b4; uin=o0492275410; skey=@6qOdnu4Ps; luin=o0492275410; lskey=00010000bf9e0413517f69a34e843b312562eed2c2ac63130bfe87afe8197a875359f959a247a742d1c96b4c; p_uin=o0492275410; pt4_token=G6FHBM7m5QcWn2qdRxO6iU0FDGcYh4pO5vVGWJ5Ky0I_; p_skey=LyW7hYK9qOJTkD*K0jT60A10pNgpaxwsweX1b4Vq-34_; p_luin=o0492275410; p_lskey=000400005dae7881bde4b04a60980132e7e56fcd1665eeeb22e1c90993dd04861c4ce2f0df0fd860047338c6; IED_LOG_INFO2=userUin%3D492275410%26uin%3D492275410%26nickName%3D%2525E5%25258D%252581%2525E6%25259C%252588%26nickname%3D%25E5%258D%2581%25E6%259C%2588%26userLoginTime%3D1650248884%26logtype%3Dqq%26loginType%3Dqq', //用自己的
     }, 
     body: {//payload的值
       iActivityId: '290183', 
       iFlowId: '647421',
-      g_tk: '2098664425'
+      g_tk: '1176841017',
+      qq: '492275410'
     }
   },
   //消息推送相关参数 关注pushplus微信公众号可以获得token free

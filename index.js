@@ -85,7 +85,7 @@ var data = qs.stringify({
 });
 var config = {
   method: 'post',
-  url: 'https://comm.ams.game.qq.com/ams/ame/amesvr?ameVersion=0.3&sServiceType=sg&iActivityId=290183&sServiceDepartment=group_a&sSDID=dce61d56b9c5c3348c29102422c720e2&sMiloTag=AMS-MILO-290183-647421-o0492275410-' + timestamp1 + '-PAlDAp&_=' + timestamp2,
+  url: 'https://comm.ams.game.qq.com/ams/ame/amesvr?ameVersion=0.3&sServiceType=sg&iActivityId=290183&sServiceDepartment=group_a&sSDID=dce61d56b9c5c3348c29102422c720e2&sMiloTag=AMS-MILO-290183-647421-o0' + body.qq + '-' + timestamp1 + '-PAlDAp&_=' + timestamp2,
   headers: { 
     'authority': 'comm.ams.game.qq.com', 
     'pragma': 'no-cache', 
